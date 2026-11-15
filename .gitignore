@@ -1,0 +1,5 @@
+/out/
+
+# Local browser tooling
+__pycache__/
+*.log
